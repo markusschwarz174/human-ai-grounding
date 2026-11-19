@@ -1,3 +1,5 @@
+> **Historical prototype, August 2026.** Retained from the first publication. Current scope ends at actor takeover; package internals and subsequent specialist work are outside it. See [current scope](../docs/SCOPE_AND_DISCLOSURE.md).
+
 # ADVISER — Single Entry
 
 ## Role

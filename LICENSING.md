@@ -1,6 +1,6 @@
 # Licensing
 
-Personal AI Workshop uses two licenses because it contains both a working method and executable software.
+Human–AI Grounding (formerly Personal AI Workshop) uses two licenses because it contains both a working method and executable software.
 
 ## Content: CC BY 4.0
 
@@ -21,7 +21,7 @@ Files in `scripts/` and `tests/`, and other files explicitly carrying `SPDX-Lice
 
 Suggested attribution:
 
-> Personal AI Workshop by Markus Schwarz, licensed under CC BY 4.0. Changes were made.
+> Human–AI Grounding by Markus Schwarz, licensed under CC BY 4.0. Changes were made.
 
 ## Third-party material
 

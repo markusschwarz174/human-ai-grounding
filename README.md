@@ -1,10 +1,30 @@
-# Personal AI Workshop
+# Human–AI Grounding
+
+**Von der menschlichen Absicht bis zur bestätigten Übernahme durch einen KI-Akteur.**
+
+Dieses Repository dokumentiert Markus Schwarz' Entwicklung einer Einstiegsphase: Anliegen klären, Verständnis abgleichen, Ziel und Grenzen festhalten, einen passenden Akteur finden und ihm den bestätigten Auftrag übergeben.
+
+Der dokumentierte Weg endet beim TAKEOVER, der festgestellten Übernahme. Die anschliessende Facharbeit und ihre Workflows gehören nicht zu dieser Veröffentlichung.
+
+- [Chronologische Entwicklungsstände ab Juni 2026](snapshots/README.md)
+- [Die beiden Agentenrunden](docs/AGENTENRUNDEN.md)
+- [Beispiel bis zur Übernahme durch ARCHITECT](docs/ENTRY_TO_HANDOVER.md)
+- [ARCHITECT als öffentliches Markdown-Kurzprofil](actors/ARCHITECT.md)
+- [Geltungsbereich und teilweise Veröffentlichung](docs/SCOPE_AND_DISCLOSURE.md)
+
+Die nachfolgende frühere Darstellung und die persönliche Geschichte bleiben als Herkunft sichtbar. Die darin beschriebenen vollständigen Pakete sind historischer Bestand und erweitern den heutigen Gegenstand nicht. Die Browser-Demo veranschaulicht Auswahl, keine vollständige automatisierte Übergabe an GPT.
+
+**Bisheriger Veröffentlichungstitel:** Personal AI Workshop. Das Repository wird unter `human-ai-grounding` weitergeführt; die früheren Entwicklungsstände bleiben in der Historie erhalten.
+
+---
+
+## Frühere öffentliche Darstellung · Oktober 2026
 
 **Deutsch** · [English](README.en.md)
 
 **Ein vom Menschen geführter Ansatz für die Zusammenarbeit mit spezialisierten KI-Agenten.**
 
-[Interaktive Agentenrunde öffnen](https://markusschwarz174.github.io/personal-ai-workshop/)
+[Interaktive Agentenrunde öffnen](https://markusschwarz174.github.io/human-ai-grounding/)
 
 ## Warum versteht mich GPT nicht?
 

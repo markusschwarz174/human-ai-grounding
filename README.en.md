@@ -1,10 +1,30 @@
-# Personal AI Workshop
+# Human–AI Grounding
+
+**From human intent to the acknowledged takeover by an AI actor.**
+
+This repository documents Markus Schwarz's evolving entry phase: clarify the request, compare understanding, establish goals and boundaries, select an actor, and hand over the confirmed assignment.
+
+The documented path ends at TAKEOVER: the actor has received and acknowledged the assignment. Subsequent specialist work and workflows are outside this publication.
+
+- [Dated development snapshots from June 2026 (German)](snapshots/README.md)
+- [Two generations of the Agent Council (German)](docs/AGENTENRUNDEN.md)
+- [Entry-to-handover example (German)](docs/ENTRY_TO_HANDOVER.md)
+- [Public ARCHITECT profile excerpt (German)](actors/ARCHITECT.md)
+- [Scope and selective disclosure (German)](docs/SCOPE_AND_DISCLOSURE.md)
+
+The earlier presentation below is retained as historical context. Its package internals are not the scope of the current publication. The existing browser demo illustrates selection, not a complete automated handover to GPT.
+
+**Earlier publication title:** Personal AI Workshop. The repository continues as `human-ai-grounding`; earlier development states remain in its history. The new documentation is currently in German.
+
+---
+
+## Earlier public presentation · October 2026
 
 [Deutsch](README.md) · **English**
 
 **A human-led approach to working with specialized AI agents.**
 
-[Open the interactive Agent Council](https://markusschwarz174.github.io/personal-ai-workshop/)
+[Open the interactive Agent Council](https://markusschwarz174.github.io/human-ai-grounding/)
 
 ## “Why doesn’t GPT understand me?”
 
