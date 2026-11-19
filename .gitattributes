@@ -1,0 +1,2 @@
+# Preserve the exact archived visualization bytes.
+docs/versions/v*/index.html -text

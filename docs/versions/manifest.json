@@ -1,0 +1,61 @@
+{
+  "documented_on": "2026-11-19",
+  "purpose": "Historical visual versions, not separate live agent systems",
+  "versions": [
+    {
+      "version": "V2.0",
+      "evidenced_on": "2026-10-17",
+      "date_basis": "development commit 871adfc; not a claim of first invention",
+      "title": "Früher interaktiver Stand",
+      "description": "Erhaltener Stand vor der kompakten Überarbeitung.",
+      "path": "v2/index.html",
+      "sha256": "cb2108ec7430f5ac3eb1dca134dcac4b4d072fcdeadcbe74dbd85f9e085ee57a",
+      "source": "Retained ADVISOR_VISUALIZATION.html from the private visual development archive",
+      "copy": "unmodified original browser version"
+    },
+    {
+      "version": "V3.0",
+      "evidenced_on": "2026-10-17",
+      "date_basis": "development commit 871adfc; not a claim of first invention",
+      "title": "Kompakter Tisch und feste Plätze",
+      "description": "Kleinerer Tisch, feste Sitzordnung und bereinigte Beschriftungen.",
+      "path": "v3/index.html",
+      "sha256": "73fc124088215f2251ecd59921938a67b9948f8fc2cdb44b5a0e08162c0f09b7",
+      "source": "Retained ADVISOR_VISUALIZATION.html from the private visual development archive",
+      "copy": "unmodified original browser version"
+    },
+    {
+      "version": "V4.0",
+      "evidenced_on": "2026-10-18",
+      "date_basis": "development commit 0de6908; not a claim of first invention",
+      "title": "Modi zwischen Agent und Tisch",
+      "description": "Aktiver Agent links, Modi dazwischen, Tisch oben rechts.",
+      "path": "v4/index.html",
+      "sha256": "26dd27fa97e41a48b61826ac0b55dc7d990dd450ea36592cd8568bd49f5aadd3",
+      "source": "Retained ADVISOR_VISUALIZATION.html from the private visual development archive",
+      "copy": "unmodified original browser version"
+    },
+    {
+      "version": "V5.0",
+      "evidenced_on": "2026-10-18",
+      "date_basis": "development commit f52fcf9; not a claim of first invention",
+      "title": "Eigene horizontale Modi-Reihe",
+      "description": "Grosszügigere Runde; Modi und Prompt-Empfehlungen in eigenen Reihen.",
+      "path": "v5/index.html",
+      "sha256": "7d89fc8dad9586c34f3c7d7f32a438ed38197bd6db304da3cfd17807ca26ff9e",
+      "source": "Retained ADVISOR_VISUALIZATION.html from the private visual development archive",
+      "copy": "unmodified original browser version"
+    },
+    {
+      "version": "V6.0",
+      "evidenced_on": "2026-10-18",
+      "date_basis": "development commit 76b4f9d; not a claim of first invention",
+      "title": "Verdichtete Startdarstellung",
+      "description": "Kompaktere Übersicht und bis zu sieben gleich breite Modi-Slots; eingefrorener Stand.",
+      "path": "v6/index.html",
+      "sha256": "16b37f5d6b0a6df46b439759b8ec05aba998c0055cc8b7b083cf99edd42f4215",
+      "source": "Retained ADVISOR_VISUALIZATION.html from the private visual development archive",
+      "copy": "unmodified original browser version"
+    }
+  ]
+}

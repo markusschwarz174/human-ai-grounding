@@ -28,6 +28,10 @@ Darstellungsstände V2 bis V6 und ein Freeze-Dokument sind erhalten. Beim lokale
 
 Auswahl allein ist keine bestätigte Übergabe. Erst Auftrag, benannter Zielakteur und festgestellte Übernahme bilden den Endpunkt.
 
+## Erhaltene Darstellungen ansehen
+
+[Versionsgalerie mit den Originalfassungen V2 bis V6](https://markusschwarz174.github.io/human-ai-grounding/versions/). Die Fassungen sind einzeln aufrufbar und vergleichbar; ihre damaligen Benennungen bleiben erhalten.
+
 ## Quellen
 
 S06: siehe [Quellenverzeichnis](../SOURCES.md), einschliesslich Zugänglichkeit und Grenzen der Rekonstruktion. [Zur Chronologie](../README.md).

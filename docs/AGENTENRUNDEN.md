@@ -22,7 +22,7 @@ Historischer Bezug: Oktober 2026. Sieben allgemeine Gegenüber bilden die sichtb
 |---|---|---|---|---|---|---|
 | Orientieren | Direkt helfen | Lernen | Denken herausfordern | Technische Systeme | Prüfen | Texte und Darstellung |
 
-[Vorhandene öffentliche Browser-Demo](https://markusschwarz174.github.io/human-ai-grounding/)
+[Öffentliche Browser-Demo](https://markusschwarz174.github.io/human-ai-grounding/) · [Alle visuellen Versionen V2 bis V6 öffnen und vergleichen](https://markusschwarz174.github.io/human-ai-grounding/versions/)
 
 Die eingefrorene Darstellung V6.0 zeigt den aktiven Agenten links und die Runde rechts. Ein Klick wechselt die sichtbare Auswahl und die dargestellten Modi. TEXT_EDITOR und EDITOR unterscheiden sich zwischen Rollenmodell und Darstellung; historische Dateien werden hier nicht rückwirkend vereinheitlicht.
 

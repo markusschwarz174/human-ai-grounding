@@ -7,6 +7,7 @@ Dieses Repository dokumentiert Markus Schwarz' Entwicklung einer Einstiegsphase:
 Der dokumentierte Weg endet beim TAKEOVER, der festgestellten Übernahme. Die anschliessende Facharbeit und ihre Workflows gehören nicht zu dieser Veröffentlichung.
 
 - [Chronologische Entwicklungsstände ab Juni 2026](snapshots/README.md)
+- [Alle visuellen Versionen öffnen und vergleichen](https://markusschwarz174.github.io/human-ai-grounding/versions/)
 - [Die beiden Agentenrunden](docs/AGENTENRUNDEN.md)
 - [Beispiel bis zur Übernahme durch ARCHITECT](docs/ENTRY_TO_HANDOVER.md)
 - [ARCHITECT als öffentliches Markdown-Kurzprofil](actors/ARCHITECT.md)

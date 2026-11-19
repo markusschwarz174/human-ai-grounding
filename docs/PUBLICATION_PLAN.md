@@ -6,7 +6,7 @@ Stand: 19. November 2026. Weiterentwicklung des bestehenden Repositorys Personal
 
 - Einstieg mit klarer Grenze bis zur bestätigten Übernahme.
 - Acht datierte Rückblicke, Quellen und Grenzen der Rekonstruktion.
-- Vergleich der frühen und späteren Agentenrunde.
+- Vergleich der frühen und späteren Agentenrunde sowie eine Versionsgalerie mit fünf unveränderten Original-Browserfassungen V2 bis V6.
 - Gekürztes ARCHITECT-Profil und fiktives Übergabebeispiel.
 - Bewusste Trennung von öffentlichen Erklärungen und vollständigen privaten Rollenverträgen beziehungsweise Fachabläufen.
 

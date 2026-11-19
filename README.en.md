@@ -7,6 +7,7 @@ This repository documents Markus Schwarz's evolving entry phase: clarify the req
 The documented path ends at TAKEOVER: the actor has received and acknowledged the assignment. Subsequent specialist work and workflows are outside this publication.
 
 - [Dated development snapshots from June 2026 (German)](snapshots/README.md)
+- [Open and compare all visual versions (German)](https://markusschwarz174.github.io/human-ai-grounding/versions/)
 - [Two generations of the Agent Council (German)](docs/AGENTENRUNDEN.md)
 - [Entry-to-handover example (German)](docs/ENTRY_TO_HANDOVER.md)
 - [Public ARCHITECT profile excerpt (German)](actors/ARCHITECT.md)
